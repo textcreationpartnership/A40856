@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous history of stovt Stukley: or, His valiant life and death</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40856</idno>
+            <idno type="STC">Wing F378A</idno>
+            <idno type="STC">ESTC R221219</idno>
+            <idno type="EEBO-CITATION">99832563</idno>
+            <idno type="PROQUEST">99832563</idno>
+            <idno type="VID">37037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2145:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous history of stovt Stukley: or, His valiant life and death</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by R.I. for Francis Grove, dwelling on Snow-Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stucley, Thomas, 1525?-1578 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:37037:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of knight on horseback</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:37037:1" rendition="simple:additions"/>
+            <p>THE Famous Hiſtory OF STOVT STVKLEY: OR, His valiant Life and Death.</p>
+            <figure>
+               <figDesc>woodcut of soldier in foreground, opposing armies in background</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> for <hi>Francis Grove</hi> dwelling on Snow-Hill.</p>
+         </div>
+         <div type="verse_argument">
+            <pb facs="tcp:37037:2"/>
+            <l>VVHen Love and Valour both together meet,</l>
+            <l>The Story is moſt pleaſing, and moſt ſweet;</l>
+            <l>Here you may read how Fortune led him on,</l>
+            <l>And did advance him firſt to <hi>Venus</hi> Throne:</l>
+            <l>Three nights be raign'd, but then depos'd himſelf,</l>
+            <l>From Loves fond kingdom, having ſpent Loves welth,</l>
+            <l>To other Kingdoms then he travailes forth;</l>
+            <l>Firſt <hi>Ireland</hi> was acquainted with his worth,</l>
+            <l>Then boyſterous winds did force his Ship on <hi>Spain,</hi>
+            </l>
+            <l>Where he a <hi>Spaniſh</hi> Ladies Love did gain,</l>
+            <l>Was freed by her from danger, but at laſt</l>
+            <l>
+               <hi>Fortune</hi> when all theſe fair bright dayes were paſt,</l>
+            <l>Led him unto the Warrs in <hi>Barbary,</hi>
+            </l>
+            <l>Where he did in his friends embraces dye;</l>
+            <l>Lovers embraces do grow looſe and end,</l>
+            <l>But Friends embraces are faſt to their friend;</l>
+            <l>Thus luſty <hi>Stukley</hi> liv'd, thus <hi>Stukley</hi> dy'd,</l>
+            <l>His fame is in this Story glorifi'd.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37037:2"/>
+            <head>The Famous Hiſtory of ſtout STVKLEY.</head>
+            <div type="chapter">
+               <p>
+                  <seg rend="decorInit">I</seg>F you delight to read the paſſages of Love, and to ſée how affection ſoon cooles when the little ſmith <hi>Cupid</hi> doth ceaſe to blow with his amorous Bellows, you may here read this Hiſtory of <hi>Thomas Stukley</hi> a Gentle<g ref="char:EOLhyphen"/>man, a Lover and a Souldier. Fortune brought him firſt acquainted with the one<g ref="char:EOLhyphen"/>ly Daughter of Sir <hi>Thomas Curtis,</hi> whoſe name was <hi>Nell;</hi> ſhe had at that time ano<g ref="char:EOLhyphen"/>ther Suter one <hi>Vernon,</hi> of a noble ſoul, and gentle Nature; but he finding that his friend <hi>Tho: Stukley</hi> was in love with <hi>Nell</hi> and beloved by her, their affections being mutuall, and ſtate equall, he expreſſing therein the part of a worthy &amp; noble friend, left the ſole happineſs of his heart to his friend <hi>Tho: Stukley</hi> reſigning up his right and intereſt unto him, and afterwards to ſmother his diſcontents, and beat off the re<g ref="char:EOLhyphen"/>membrance of his forſaken Swéet-heart, he travells beyond Sea, ſo at once to loſe her name and memory Now <hi>Stukley</hi> being them an entertained to his friends felicity, both by the father, and mother, and beloved
+<pb facs="tcp:37037:3"/> by <hi>Nell:</hi> after ſome exchange of Ceremo<g ref="char:EOLhyphen"/>nies about the contract, ſome chiding of her for her choice, which are uſuall matters; <hi>Stukley</hi> was received by Sir <hi>Thom. Curtis</hi> and his wife, for their ſon, and by <hi>Nell</hi> for her wiſhed husband. Suppoſe now their wed<g ref="char:EOLhyphen"/>ding was deſired to be kept with great coſt and ſolemnity, and in the mean time the promiſed Bride fed upon the expectation of the wedding night.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Chap. II. How old Stukley came up to London to ſee his ſon, and how young Stukley acquainted his father with his intended Marriage.</head>
+               <p>FAme having reported unto old Maſter <hi>Stukley,</hi> that his Son had gotten into the favour and affection of Sir <hi>Thomas Curtis's</hi> daughter, he comes preſently up to <hi>London</hi> in all haſte, and firſt he goes to viſit his ſon young <hi>Stukley</hi> at the Temple, and to come upon him like an old Fox unawares, that he might take him in the ſecurity of all his youthfull negligence; ſo comming to his Chamber, he knocks, and finds no body within but his Page, who had a ready wit to give his old Maſter an anſwer in his young Maſters behalf, at laſt <hi>Stukley</hi> bids his Page deliver him the key of his Study, but the Page, to ſave his Maſters credit, told him that he ever carried it about with him, but at laſt the old man péeping about found the door ſtanding open, and there diſ<g ref="char:EOLhyphen"/>covers
+<pb facs="tcp:37037:3"/> his Sons books, which were theſe following, Long-Sword, Short-Sword and Buckler, Foxes &amp; Bilboes Blades, but never a Candle-ſtick but an old Hilt of a broken ſword, and the bottom of a Temple Pot, with a little ſarſenet in't, did ſerve him for a Candleſtick; at laſt comes in <hi>Stuk<g ref="char:EOLhyphen"/>ley</hi> not ſuſpecting that his Father was there, but at laſt perceiving that he had béen taking an Inventory of his Books, and Houſe-hold-ſtuff, he knéeles down to re<g ref="char:EOLhyphen"/>ceive his Fathers bleſſing, who at firſt be<g ref="char:EOLhyphen"/>gins to ſcold at him, but he puts him out with other queſtions; at laſt he begins to come over him with honeſt wholſom coun<g ref="char:EOLhyphen"/>ſell, upbraiding him with thoſe that were of his age, ſetting the<g ref="char:cmbAbbrStroke">̄</g> before him as examples of good Students and thrifty young Gentle<g ref="char:EOLhyphen"/>men, but <hi>Stukley</hi> told his father that <hi>Iohn-a-Nokes,</hi> &amp; <hi>Iohn-a-Stiles</hi> &amp; he could not coten, and that the <hi>French</hi> Law was worſe than buttered Mackerell full of bones; at laſt he plainly told his Father, that in ſtead of ſcratching things out of a Standiſh all a mans life time he had found out a nearer cut to preferment, which was, that he was in poſſibility to marry Alderman <hi>Curtis</hi> his Daughter, and therefore if his father would but promiſe the Alderman that he ſhould make her a Ioynture, all would be done, for he had his daughters good will already: Old <hi>Stukley</hi> conceiving the plot it being a
+<pb facs="tcp:37037:4"/> matter of gain, where by his ſon ſhould ob<g ref="char:EOLhyphen"/>tain a wife worth forty thouſand pounds, he preſently conſents to his ſon, who had already tampered the Wench wrought the Alderman and his wife, &amp; now perſwaded his father to aſſiſt to this matter of money, and ſo you muſt expect his Marriage.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>Chap. III. How Stukley was married, and how on his VVedding-day he fell out with one Her<g ref="char:EOLhyphen"/>bert, about ſome diſgracefull ſpeeches, and how Vernon went to travell.</head>
+               <p>NOw came the wedding day, and the Bride like a ſpreading Roſe opened all her beauties, deſiring to be gathered; <hi>Stuke<g ref="char:EOLhyphen"/>ley,</hi> that had put on his beſt Apparel, was ready to do the ſervice of a Bridegroom, wherwith he had béen acquainted and was no Novice in <hi>Cupids</hi> wayes; but as the Bride ſat ſimpering at dinner, and the old folks conceiting their Daughters happi<g ref="char:EOLhyphen"/>neſs, it chanced that a ſuddain accident diſturbed <hi>Hymens</hi> Feaſt, ſome words had paſt between one M. <hi>Herbert</hi> and <hi>Stukley, Herbert</hi> propheſying to this effect that Ald. <hi>Curtis</hi> had undone his daughter by this marriage; <hi>Stukley</hi> being angry hereat pre<g ref="char:EOLhyphen"/>ſently challenged <hi>Harbert,</hi> &amp; they preſently roſe from the table, but were at laſt by the Alderm. perſwaſions pacified &amp; the brides tears, who loath to loſe her <hi>Stukley,</hi> and to be divorc'd from him on the wedding-day,
+<pb facs="tcp:37037:4"/> wrought ſo with <hi>Herbert,</hi> that their quarrel was deferred until a fitter opportunitie, when they might both queſtion and decide the former injury; ſo the wound given to <hi>Stukley</hi> was for a while cloſed up, and the wedding went forward to the Aldermans contentment, &amp; the old mothers great joy, who was glad in her daughters behalf; and now Candles were lighted, Supper was ſerved in, &amp; after many diſhes had been ri<g ref="char:EOLhyphen"/>fled, and a Banquet wholly deſtroyed by the Gueſts, after many Ceremonies, the long delayed night growing on, <hi>Stukley</hi> &amp; his beloved <hi>Nell</hi> were brought into their <hi>VVedding-Chamber,</hi> and the Bride like a Sacrifice laid into her bed, while merry <hi>T. Stukley</hi> taught to ſee fear and deſire expreſ<g ref="char:EOLhyphen"/>ſing themſelves in the bluſhes of <hi>Nells</hi> cheekes; and now the Curtaines being drawn all the company left them, and what followed muſt be left to your imaginations.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Chap. IV. How Vernon reſolved to go into Ireland with Herbert and another Captain, and how Stukley paied all his Creditors.</head>
+               <p>NOble and brave-minded <hi>Vernon.</hi> hav<g ref="char:EOLhyphen"/>ing croſt himſelf in love, by giving a<g ref="char:EOLhyphen"/>way the treaſure of his ſoul, and now droop<g ref="char:EOLhyphen"/>ing like a ſhaddow, having loſt the ſub<g ref="char:EOLhyphen"/>ſtance which he followed, to eaſe his diſ<g ref="char:EOLhyphen"/>content, and change his mind, and forget <hi>Nell,</hi> freſh yet in his remembrance, re<g ref="char:EOLhyphen"/>ſolves
+<pb facs="tcp:37037:5"/> to travell, and by changing his aire to change his mind, and thereupon imparts his purpoſe and deſign to two friends of his, <hi>Hamdon</hi> &amp; <hi>Ridley,</hi> they with many pow<g ref="char:EOLhyphen"/>erful reaſons diſſwaded him, all which he anſwers, and by admitting no argument to the contrary, ſo farr prevailed with his friends, that they unwillingly conſented to his deſire, which was to travel, and firſt to goe into <hi>Ireland</hi> with Maſter <hi>Herbert</hi> &amp; an<g ref="char:EOLhyphen"/>other Captain; <hi>Herbert</hi> going alſo to the warrs, and intending if ever he met <hi>Stukley</hi> he would draw out their former quarrell in characters of blood, &amp; be revenged of <hi>Stuk<g ref="char:EOLhyphen"/>ley,</hi> and with theſe purpoſes &amp; intents <hi>Ver<g ref="char:EOLhyphen"/>non</hi> and <hi>Harbert</hi> went to the warrs in <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> now <hi>Stukeley</hi> having performed his firſt prize on the Wedding night with his kind <hi>Nell</hi> Alderman <hi>Curtis</hi> his daughter, was ſomewhat prettily abated in his wild fancies, and had béen humbled by his own inſolent ſpirit, whereupon the wives porti<g ref="char:EOLhyphen"/>on was the next Virgin muſt be ranſackt; he had gathered all the Flowers and Roſes which Love and Poetry can imagine, and now he came to the golden Apples of his wives Portion, and firſt he had occaſion to begin with ſome old debts, which his youth in the dayes of his Batchelorſhip had run into; and firſt there comes to viſit him a crew of old debtors, namely <hi>Arthur Croſs</hi> the Mercer, <hi>John Spring</hi> the Vintner, <hi>Wil.
+<pb facs="tcp:37037:5"/> Sharp</hi> the Cutler, <hi>Thump</hi> the Bucklemaker. <hi>George Hazard</hi> the Tennis-kéeper, <hi>Henry Crack</hi> Fencer, and <hi>Jeffery B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urt</hi> Bailieffe of <hi>Finsbury,</hi> all theſe came after him with Bills and Notes in their hands to viſit him in the health of a good Fortune; <hi>Stukley</hi> ſee<g ref="char:EOLhyphen"/>ing ſuch a number of Citizens and trading fellowes came to claime monies before he was ſcarce warme in his new Mar<g ref="char:EOLhyphen"/>riage, he being of a generous ſpirit, and accounting money but the admiration of dunghill Clownes and Peaſants, preſent<g ref="char:EOLhyphen"/>ly ſummons all his Creditors, and makes his old father <hi>Curtis</hi> do a deed of conſcience &amp; pay to Mr. <hi>Croſs</hi> the Mercer for Silks &amp; Velvets two hundred pounds, to M. <hi>Spring</hi> the Vintner for Tavern Suppers &amp; Wine thirty pounds; to <hi>Sharp</hi> for Bilboes Foxes and Toledo Blades forty Markes, to Mr. <hi>Thump</hi> the Buckle-ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r for broad lined Bucklers and ſteele Pikes, fifteen pound; to <hi>Hazard</hi> the Tennis-keeper, for Tennis Balls, thirteen pound; to <hi>Crack</hi> the Fencer for forfeits &amp; venies given, thirty crowns, and to the Bailieffe of <hi>Finsbury</hi> for Rapes and Bloodſheds in the Fields, five Marks. Old <hi>Curtis</hi> having payed theſe ſeverall debts &amp; legacies, bequeathed to vanity and youths folly, put the old man into a kind of rage, and wounded his baggs ſo, that the old mans conſcience ſmarting in the behalfe thereof, he began to cry out upon <hi>Stukley,</hi>
+                  <pb facs="tcp:37037:6"/> and to tell him as old Fathers will do, that his daughter was a deſtroyed creature, and quite overthrown, &amp; he a Prodigal; where<g ref="char:EOLhyphen"/>upon <hi>Stukley</hi> informed him of the equity of the action in paying his debts; and that ſee<g ref="char:EOLhyphen"/>ing he had ſatisfied his daughters whole ſum of love in a round manner, therefore he ought to ſatisfie theſe pedling debts, but this could not appeaſe the wrong he had done old <hi>Curtis,</hi> ſenſible in a deep manner of the payment of theſe debts; whereupon <hi>Stukley</hi> left him to make a tedious com<g ref="char:EOLhyphen"/>plaint to his old wife Lady <hi>Curtis,</hi> who ap<g ref="char:EOLhyphen"/>prehended the matter with the like paſſion, and both of them joyn together to make old <hi>Stukley</hi> out of conceit with his mad Son <hi>Tom Stukley;</hi> and the concluſion of all their accuſation ended concerning <hi>Tom Stukleys</hi> prodigality, which his father ſtrove to ex<g ref="char:EOLhyphen"/>cuſe, but would not defend, though he knew his high mind and contempt of money, but thought he, he is my own ſon, that prefers credit in a good cauſe, before coyn, &amp; makes a Wife but a piece of vendible houſ-hold-ſtuff that may be converted to a proper mans uſes; but he diſſembled with the old Alderman <hi>Curtis</hi> and his wife, thinking their hearts were drowned in the baggs that <hi>Tom Stukley</hi> had emptied and they feared this was but the beginning of the miſeries of their daughters marriage.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:37037:6"/>
+               <head>Chap. V. How Stukley, though diſſwaded by his wife his Father-in-law Alderman Curtis, and old Stukley his own Father, would yet needs go to the warrs in Ireland.</head>
+               <p>STout <hi>Stukley</hi> having begun the new life of marriage with a brave act in paying his Creditors with part of his wives por<g ref="char:EOLhyphen"/>tion, was now enflamed with a new de<g ref="char:EOLhyphen"/>ſire, and had entertained a freſh affection to honour, pettycoat-fancies were blown and ſtale, things of common enjoying, &amp; there<g ref="char:EOLhyphen"/>fore now his thoughts were wholly fixed on the wars, no ſoft and gentle whiſperings which his wife could in vent, though mix'd with wanton willing kiſſes, could detain him in her embraces, he muſt away, and though the power of Love commanded him to ſtay, yet valour drew him to the warrs then maintained in <hi>Ireland;</hi> when his wife perceived his purpoſe, ſhe ſet all the ſpells of Love to work, and conjured him a bed; not to go to the warrs, but he anſwered all her objections, and told her, that though he ſhould leave her poor he intending to take with him all her Iewels, and the mo<g ref="char:EOLhyphen"/>ney which he received for her portion, yet both their fathers would maintain her to her own content, ſo that after many ex<g ref="char:EOLhyphen"/>changes of loving kindneſſes, not here to be repeated, ſhe ſought with tears to make him more ſoft and compaſſionate; will you be gone ſaid ſhe after thrée dayes? are we
+<pb facs="tcp:37037:7"/> ſcarce warme in love, &amp; ſhall we be divorc'd again before our joyes are ſcarcely per<g ref="char:EOLhyphen"/>fected? tepetitions in Loves School make the beſt Scholars, and when you go I ſhall forget that new Leſſon which you taught me, for when you are gone I muſt live widdowed of all former comfort, therefore recall that haſty word, and ſince you had my heart, and cannot give back what you have received, ſtay with me, in me enjoy the world, in me behold the warrs, Ile be your foe, yet never kill you, unleſs it bee with kindneſs. VVhen ſhe had breathed forth this ſad complaint unto <hi>Stukley,</hi> hee ſighed and ſaid, <hi>Nell,</hi> your complements are good, and ſuch as ſpeak your heart, but I muſt go, therefore give me thy conſent, &amp; then I ſhall depart with a chearful Re<g ref="char:EOLhyphen"/>ſolution to the wars in <hi>Ireland.</hi> When they were agreed, and after much debating of the matter, had conſented to a ſeparation; for a time, his Father-in-law <hi>Curtis,</hi> &amp; his own Father old <hi>Stukley</hi> ſet upon him with many old mouldy reaſons, intending to diſſwade him from going to the warrs, but he ſoone gave him an anſwer, &amp; made them ſoone to underſtand the power of valour, whereof the poor old Dons were inſenſible, loving ſecurity before honour, and ſo <hi>Stukley</hi> hav<g ref="char:EOLhyphen"/>ing now fealed a farewell on <hi>Nells</hi> lips, &amp; took his leave of his two old Dads, carried over a company of Souldiers to the warrs.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb facs="tcp:37037:7"/>
+               <head>Chap. VI. How Stukley met with Vernon and Herbert in Ireland, and how he was ſhut out of the Town by Herbert, Governor of the Town for the Engliſh.</head>
+               <p>THe Wars continuing in <hi>Ireland, Stuk<g ref="char:EOLhyphen"/>ley,</hi> as was ſaid, went over with a brave Company of ſouldiers to aide them againſt the <hi>Iriſh</hi> Rebels, and comming to a ſtrong <hi>Engliſh</hi> Town called <hi>Dundalke,</hi> ſummon<g ref="char:EOLhyphen"/>ed them to the walls with his Drumme; whereupon preſently appeared <hi>Vernon, Gainsford,</hi> and other Souldiers, and at laſt <hi>Harbert</hi> who was Governour of the town; and at their firſt interview, griefe &amp; anger ſtrove in their breaſts, <hi>Vernon</hi> was ſorry to ſee him that had robbed him of the jewell of his love &amp; life <hi>Nell</hi> Ald. <hi>Curtis</hi> his daughter and to increaſe his ſorrow<g ref="char:punc">▪</g> 
+                  <hi>Stukley's</hi> Lieu<g ref="char:EOLhyphen"/>tenant delivered him a Letter, wherein he underſtood from one <hi>W. Mallery,</hi> that <hi>Stuk<g ref="char:EOLhyphen"/>ley</hi> had uſed his wife unkindly, wherewith <hi>Vernon</hi> acquainted <hi>Stukley</hi> &amp; told him that it ſeemed he did not love his wife, but was unkind, and did not make much of her, whereupon <hi>Stukley</hi> told hm that he made very much of her, for he had made away her portion and plate, her jewels and rings, and all her cloathes except one poor gown, &amp; he that can make more of one poor wife, let him take her: <hi>Vernon,</hi> hearing this was much grieved at <hi>Stukley,</hi> that he ſhould uſe her ſo unkindly, &amp; to avoide the hated ſight
+<pb facs="tcp:37037:8"/> of <hi>Stukley,</hi> he reſolved to travell into <hi>Spain</hi> or <hi>France,</hi> and leave the warrs; after this <hi>Harbert</hi> the Governour commanded <hi>Stuk<g ref="char:EOLhyphen"/>ley</hi> to bring his company into the town, where being entred, he begins to renew his quarrel with <hi>Harbert,</hi> about words ſpo<g ref="char:EOLhyphen"/>ken in <hi>England,</hi> which were, that old Sir <hi>Tho Curtis</hi> had caſt away his daughter up<g ref="char:EOLhyphen"/>on him, but being ready to fight, the enemy charged againſt the walls, whereupon they were fain to deſiſt and leave off, to make a ſally ſorth upon the <hi>Iriſh,</hi> whom they ſoon put to flight &amp; purſued, retiring afterwards again; but <hi>Stukley</hi> and his company drawn on with the hope of booty, purſued the <hi>Iriſh</hi> ſo far that the City gates were ſhut, at laſt <hi>Stukley</hi> returning with a great booty of Cows gotten from the <hi>Iriſh, Harbert,</hi> Go<g ref="char:EOLhyphen"/>vernour of the Town, would not ſuffer <hi>Stukley</hi> to be admitted within the gates, hoping the <hi>Iriſh</hi> would come down and cut both <hi>Stukleys</hi> throat and all his ſouldiers; this affront <hi>Stukley</hi> took in ſuch dudgeon, waiting opportunity to be revenged on <hi>Harbert,</hi> that be gave all the former booty to his ſouldiers, except thirty horſes or hob<g ref="char:EOLhyphen"/>bies, which he ſent aboard, and giving his ſouldiers a hundred pound to drink for his ſake, he went aboard his ſhip to try his fortune in ſome other Country.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>Chap. VII. How Stukley denied the Governour of Cales
+<pb facs="tcp:37037:8"/> in Spain five of his horſes, and was by the Governor committed to priſon, &amp; how the Governors wife fell in love with him.</head>
+               <p>FOrtune being willing to try the brave and generous mind of <hi>Stukley,</hi> put ſuch winds into the ſailes of his ſhips, as drave him perforce into a harbor upon the Spa<g ref="char:EOLhyphen"/>niſh Coaſt; being here arrived, notice was given to the Governor; &amp; five of his horſes demanded as a preſent for the Governour, which he denied &amp; therupon being brought before him, he told him that he ſhould not have a hair of one of his hobbies, nor a nail of one of them, though he would draw it with his teeth. <hi>Stukley,</hi> and the Spaniſh Govern<g ref="char:EOLhyphen"/>our being thus at debate, the Govornours wife being then preſent, &amp; beholding <hi>Stuk<g ref="char:EOLhyphen"/>ley,</hi> began to entertain a thought of love towards him, and in her mind ſilently com<g ref="char:EOLhyphen"/>mended him for a brave proper man, wiſh<g ref="char:EOLhyphen"/>ing ſhe could excuſe his rudeneſs towards her husband the proud Spaniard; at laſt, <hi>Stukley</hi> ſtill conteſting with the Govern<g ref="char:EOLhyphen"/>our, he both ſeized upon his ſhip &amp; horſes, and committed him to priſon, intending to inform the King of Spain of <hi>Stukleys,</hi> ſtout carriage; he being carried away, the Governours Lady began to perſwade her husband in his behalfe, and to work him to a milder temper towards <hi>Stukley,</hi> but all in vain, wherupon ſhe commanded the Provoſt that was ready to carry him to the Mar<g ref="char:EOLhyphen"/>ſhallſey,
+<pb facs="tcp:37037:9"/> to bring him to her, and when he was come into her preſence, ſhe began to perſwade him to ſubmit unto her husband, but that not prevailing, ſhe offer'd him fur<g ref="char:EOLhyphen"/>ther help, inſomuch that <hi>Stukley</hi> had ob<g ref="char:EOLhyphen"/>tained one of his Hobbies, and leave to ride unto the King of <hi>Spaines</hi> Court in her huſ<g ref="char:EOLhyphen"/>bands abſence, promiſing upon the honour of an <hi>Engliſhman,</hi> word to return by ſix a clock in the evening, whereupon the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Lady took his word, and he repaired to the <hi>Spaniſh</hi> Court.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>Chap. VIII. How Stukley went to the King of Spain, and returned again according to his promiſe to the Spaniſh Lady.</head>
+               <p>VAliant <hi>Stukley,</hi> being mounted upon one of his Hobbies, poſts away to the K. of <hi>Spains</hi> Court, and, being admitted to his preſence, lets his Majeſty underſtand how that he coming to <hi>Cales Don Herando</hi> his Majeſties Governour, had there attached both his Ship and all therein, together with thirty Hobbies brought to preſent unto his Majeſty and had clapt him in priſon from whence he had by good fortune eſcaped, to bring his Majeſty acquainted with his wrongs and injuries: Now all the while that <hi>Stukley</hi> was gone to the Court, the Governors wife and the provoſt were in a great perplexity, leſt <hi>Herando</hi> (for ſo was the Governour called) ſhould diſcover
+<pb facs="tcp:37037:9"/> the matter, &amp; eſpecially becauſe he had com<g ref="char:EOLhyphen"/>mand that he ſhould be brought before him, the Provoſt knew not what to ſay or do, for he knew <hi>Stukley</hi> was out of his reach, but his wife whoſe wit was ſharpned by love &amp; fear, told her frowning husband, that the <hi>Engliſh</hi> Captain was changed by his im<g ref="char:EOLhyphen"/>priſonment &amp; his high mind come down, be<g ref="char:EOLhyphen"/>ing willing to offer ſubmiſſion if accepted, &amp; was penning an humble Petition to that effect: this pleaſed the <hi>Spaniards</hi> ambition, being glad to make vertue ſtoop unto his pride: at laſt he would needs fetch <hi>Stukley</hi> himſelf and commanded the Provoſt to give him the Key of the Iayl, but then his wife with her womaniſh wit told him that there were many ſick in Priſon, and therefore it would be dangerous for his Lordſhip to venture in amongſt them; Thus did ſhée ſéek to ſtay his furious anger, &amp; to keep all matters ſafe from his knowledge; at laſt when ſhe had ſpent her laſt excuſe, and that ſhe knew not how to deviſe another, in comes <hi>Stukley</hi> in gives &amp; fetters led by the Provoſt, which comforted the poor Lady, but the Governour expecting ſubmiſſion, found nothing leſs, but began to threaten him with death when preſently a Marſhall arrives ſent from the K. of <hi>Spain</hi> to appre<g ref="char:EOLhyphen"/>hend him &amp; bring him before him: where<g ref="char:EOLhyphen"/>upon he began to flatter <hi>Stukley,</hi> proteſt<g ref="char:EOLhyphen"/>ing that all he had done was but to try his
+<pb facs="tcp:37037:10"/> fortitude &amp; valour, and <hi>Stukley</hi> deſiring the Lady to let him know how he might grati<g ref="char:EOLhyphen"/>fie her love ſhe anſwered that vertue was reward enough unto it ſelf, giving him a Scarf to wear alſo for her ſake, which he with complement received, and ſo he and <hi>Herando</hi> went to the Court where he gave all his thirty Hobbies to the King of <hi>Spain,</hi> which were ſo graciouſly by him received, that he was much eſtéemed by the King. Now it happened that <hi>Vernon</hi> whom he had made to wear the willow-Garland, eſcaping the fury of a Tyrant ſtorm all the reſt being ſunck and periſhed, and being abuſed by the Governour of the Haven wherinto they were driven, came alſo to complain unto the King for redreſs of his grievances, where he preſently be<g ref="char:EOLhyphen"/>held <hi>Stukley,</hi> who being in high favour with the King, ſpoke unto his Majeſty in <hi>Vernons</hi> behalf, but <hi>Vernon</hi> grieved at the ſight of him, &amp; ſorry that he ſhould ſtill be<g ref="char:EOLhyphen"/>come the hatefull object of his ſight, which he ſhunned, ſhrunk away with diſcontent and anger. But afterwards <hi>Stukley</hi> grew in great honour, for the King of <hi>Spain</hi> would néeds ſend him Ambaſſador to the Pope, to know if he might aid <hi>Don Sebaſtian</hi> him<g ref="char:EOLhyphen"/>ſelf, in his Wars in <hi>Africa</hi> againſt the <hi>Bar<g ref="char:EOLhyphen"/>barians,</hi> and commanded that five thouſand Ducats ſhould be delivered to him, who though he ſought to avoid ſo great an em<g ref="char:EOLhyphen"/>ployment,
+<pb facs="tcp:37037:10"/> yet at laſt he was fain to ac<g ref="char:EOLhyphen"/>cept thereof, but when he was to receive the five thouſand Ducats becauſe there wanted twenty of the five thouſand hee would receive none, but taking it as a diſgrace, it was told him that the bagges would receive no more; but he imagining that the King had abridged his bounty, would receive none of them, but bid them tell the King that he would bear the charge of the Ambaſſage himſelf: So being come to <hi>Rome,</hi> he was created by the Pope Marquis of <hi>Ireland,</hi> and ſo contrary to his intention, he imbarks with his <hi>Italian</hi> bands for <hi>Italie;</hi> but the winds conſpiring to diſcover his treachery, drove him a ſhore on the Weſt of <hi>Barbarie,</hi> and ſo with <hi>Philips</hi> forces landed there, and were received into the Town of <hi>Terrill</hi> in <hi>Barbarie;</hi> at laſt the day came when the great battel of <hi>Alcazal</hi> was to be fought, and the earth made to bluſh with the blood of <hi>Spaniards</hi> and <hi>Turks,</hi> in which battel, thrée Kings (to make it a Royall field) were ſlain, &amp; <hi>Stukley</hi> behaved himſelf to the wonder &amp; amazement of all Nations, &amp; to the glory of his own Coun<g ref="char:EOLhyphen"/>try, and being faint &amp; wounded, met with <hi>Vernon,</hi> unto whom he had alwayes béen like a walking Apparition or Ghoſt, and ever hanted him, but now death thought to make them friends whom life could not re<g ref="char:EOLhyphen"/>concile: and now <hi>Vernon</hi> told him the ſum of all his ſtory, which was, that after he
+<pb facs="tcp:37037:11"/> reſigned up his right and title to Alderman <hi>Curtis</hi> his daughter, he did alwayes avoid his ſight, becauſe it did refreſh the remem<g ref="char:EOLhyphen"/>brance of <hi>Nell,</hi> but yet ſtill they met in <hi>Ire<g ref="char:EOLhyphen"/>land, Spain,</hi> and <hi>Rome,</hi> and now at laſt in <hi>Africa,</hi> and here we muſt part again by death. <hi>Stukley</hi> ſighing ſaid; I hope, though wee part here on earth, wee ſhall meet in Heaven, for <hi>Vernon,</hi> wee were alwayes friends, we bore one mind, loved one Wo<g ref="char:EOLhyphen"/>man, and breathed one air, followed one kind of life, &amp; now we ſhall dye one kind of death, yet let this be our comfort, that our fame ſhall after death ſurvive, and our blood mingle with the blood of Kings, and our names remembred by poſterity: ſo hav<g ref="char:EOLhyphen"/>ing mutually asked forgiveneſs of each o<g ref="char:EOLhyphen"/>ther, they embraced like a pair of noble con<g ref="char:EOLhyphen"/>ſtant friends, and then to accompliſh their Tragedy, <hi>Stuklies</hi> Souldiers mutining a<g ref="char:EOLhyphen"/>gainſt him, came and found <hi>Vernon</hi> and he thus embracing, whereupon <hi>Vernon</hi> askt the furious Souldiers whether they would mutiny againſt their Leader, whereunto the bloody Souldiers replyed, that if <hi>Stuk<g ref="char:EOLhyphen"/>ley</hi> their leader had kept his oath which he ſwore unto the Pope, they had béen ſafe in <hi>Ireland,</hi> and had not travelled to find out a forraign grave in <hi>Africa,</hi> and therefore they would ſtab <hi>Stukley</hi> to the heart, that had thus brought them all to untimely deaths. When <hi>Vernon</hi> ſaw how they were incen<g ref="char:EOLhyphen"/>ſed
+<pb facs="tcp:37037:11"/> againſt his friend <hi>Stukley,</hi> he began to perſwade them in his friends behalf, but ſooner might he move a Lioneſs robbed of her young, or with ſoft and gentle words make the ſea waves leave raging, then re<g ref="char:EOLhyphen"/>duce theſe ſouldiers to a milder temper; ſo that deſparing of any mercy from ſuch iron-hearted minds, he deſired them that ſince they were bent to ſacrifice their Captain to their offended wrath, they wo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt exe<g ref="char:EOLhyphen"/>cute their wrath on him and let his blood quench their fury, and thus like another <hi>Priades</hi> he pleaded for his friend <hi>Oreſtes;</hi> when he had ſeen the faithful love of <hi>Ver<g ref="char:EOLhyphen"/>non</hi> and how he deſired to die for his friend, he deſired his Souldiers to hear him ſpeak but one word: but they all cryed and ſaid, ſtab him, ſtab him but then when words and perſwaſions could not take place. <hi>Vernon</hi> like a noble friend enterpoſes himſelf to ſave <hi>Stukley,</hi> and with his ſword labours to preſerve his life, but all in vain; Vertue hath his period, beyond which it cannot paſs, and muſt be mortall here, that it may gain immortality hereafter: oppreſt with the multitude, like <hi>Hercules</hi> fighting with too great odds, ſo <hi>Vernon</hi> fighting for his friend <hi>Stukley</hi> falls in the Skirmiſh, and then the ſouldiers ruſhing in upon <hi>Stukley,</hi> ſtabb'd him to the heart, then Love &amp; valour lying both a bléeding in the open field <hi>Stuk<g ref="char:EOLhyphen"/>ley</hi> concludes his life with theſe Words,
+<q>
+                     <pb facs="tcp:37037:12"/>
+                     <l>Villaines have you ſlain my friend.</l>
+                     <l>Then here my love and life doth end.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Stukley</hi> again being mortally wounded ſaid, farewel <hi>Vernon,</hi> Fortune was and— but before he could end his ſpéech, his life ended, both dying one death, like the Pi<g ref="char:EOLhyphen"/>ctures of two friends, on whom an Epitaph might be writ, though the ſtory ſaith, that <hi>Stukley</hi> was afterwards buried, and had a moſt royal Tombe built over him for his Monument; and thus lived and dyed the valiant ſtout <hi>Stukley.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="song">
+            <head>The famous life and death of the renowned <hi>Engliſh</hi> gallant, <hi>Thomas Stukley,</hi> who lived in the time of Queen <hi>Elizabeth,</hi> and ended his dayes in a Battel of three Kings in <hi>Barbary.</hi>
+            </head>
+            <opener>To the Tune of, Henries <hi>going to</hi> Bulloin.</opener>
+            <l>IN <hi>England</hi> in the Weſt,</l>
+            <l>Where <hi>Phoebus</hi> takes his reſt,</l>
+            <l>There Luſty <hi>Stukley</hi> he was born;</l>
+            <l>by birth he was a Clothiers ſon,</l>
+            <l>déeds of wonder he hath done,</l>
+            <l>Which with laſting praiſe his name adorn</l>
+            <l>Luſty <hi>Stukley</hi> he was nam'd,</l>
+            <l>and a broad much honour gained,</l>
+            <l>For ſo reports the ſtory of his life,</l>
+            <l>he married with a <hi>London</hi> Dame,</l>
+            <l>daughter to an Alderman,</l>
+            <l>And had great ſtore of treaſure with his wife.</l>
+            <pb facs="tcp:37037:12"/>
+            <l>But he in riot ſoon,</l>
+            <l>her portion did conſume,</l>
+            <l>Which ſtruck old <hi>Curtis</hi> ſo unto the heart,</l>
+            <l>who was his wives own father,</l>
+            <l>that he with age, or rather</l>
+            <l>With ſorrow, did this life depart,</l>
+            <l>When he was laid in earth,</l>
+            <l>
+               <hi>Stukley</hi> began his mirth,</l>
+            <l>His golden Angels then began to flie,</l>
+            <l>he night by night in pleaſure,</l>
+            <l>did melt away his treaſure,</l>
+            <l>And wiſhed that his loving wife would die,</l>
+            <l>While vice he maintained,</l>
+            <l>his wants at laſt conſtrained</l>
+            <l>Him for to ſell the pavements of his yard,</l>
+            <l>which with blocks of Tin were lin'd,</l>
+            <l>old <hi>Curtis</hi> left the ſame behind,</l>
+            <l>But he the ſame did ne'r the more regard,</l>
+            <l>His wife hereat lamented,</l>
+            <l>and was much diſcontented,</l>
+            <l>Make much of me dear husband ſhe did cry,</l>
+            <l>Ile make much more ſwéet-heart of thée</l>
+            <l>Than any other ſhall, quoth he,</l>
+            <l>Ile ſel thy cloathes and ſo from <hi>England</hi> flie</l>
+            <l>ſo firſt he went for <hi>Italy,</hi>
+            </l>
+            <l>and then again to <hi>Barbary,</hi>
+            </l>
+            <l>Where by his valour he did ſoon obtain</l>
+            <l>the Standard royall for to bear</l>
+            <l>while in one field did appear</l>
+            <l>Thrée Kings their rights for to maintain.</l>
+            <l>The Sun did ne'r behold</l>
+            <l>a battel fought more bold</l>
+            <pb facs="tcp:37037:13"/>
+            <l>And afterward brave <hi>Stukley</hi> there was ſla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n</l>
+            <l>by thoſe <hi>Italians</hi> of great worth</l>
+            <l>which <hi>Stuk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey</hi> to the ſtei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drew forth,</l>
+            <l>And thus unto himſelf he did complain,</l>
+            <l>Was I mad, or did I rave</l>
+            <l>thus to ſeen a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orreign grave,</l>
+            <l>And at home abuſe my loving wife?</l>
+            <l>
+               <hi>Stukley</hi> on the ground now lies</l>
+            <l>like to <hi>Mars</hi> his ſacrifice,</l>
+            <l>And bléeding here muſt end my wretched life.</l>
+            <l>And with this word his breath</l>
+            <l>was ſtopped ſoon by death,</l>
+            <l>His empty body lay upon the groun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>which buried once, they did make,</l>
+            <l>a royal Tomb or <hi>Stukl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s</hi> ſake.</l>
+            <l>And ſtill his noble valor is renound.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37037:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
